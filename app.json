@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "language-cast",
+    "slug": "language-cast",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.illutio.languagecast"
+    },
+    "android": {
+      "package": "com.illutio.languagecast"
+    },
+    "facebookScheme": "fb220534671842696",
+    "facebookAppId": "220534671842696",
+    "facebookDisplayName": "LanguageCast"
+  }
+}
